@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexandreczrl
-- 👀 I’m interested in Python, Tech, IA and Data
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Tech, IA and Data
+- 🌱 I’m currently learning Python, Java, etc.
 - 💞️ I’m looking to collaborate on some project about differents subjects
 - 📫 How to reach me @alex_czrl on X
 - 😄 Pronouns: He
